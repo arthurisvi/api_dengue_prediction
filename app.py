@@ -44,8 +44,8 @@ def createTask():
     
     response = {
         "exit": int(model_exit),
-        "positive_probability": float(model_probability[1]),
-        "negative_probability": float(model_probability[0])
+        "positive_probability": float("{:.2f}".format((model_probability[1]) * 100)),
+        "negative_probability": float("{:.2f}".format((model_probability[0]) * 100))
     }
     
     return json.dumps(response)

@@ -14,7 +14,7 @@ Utiliza-se um modelo de machine learning em que foi aplicada a técnica de Decis
 	"vomito": 1,
 	"nausea": 1,
 	"dor_costas": 2,
-	"astralgia": 2,
+	"artralgia": 2,
 	"dor_retro": 1,
 	"leucopenia": 1,
 	"petequia_n": 1

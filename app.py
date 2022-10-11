@@ -21,7 +21,7 @@ def createTask():
         form['vomito'],
         form['nausea'], 
         form['dor_costas'], 
-        form['astralgia'], 
+        form['artralgia'], 
         form['dor_retro'],
         form['leucopenia'], 
         form['petequia_n']       
@@ -36,7 +36,7 @@ def createTask():
         form['vomito'],
         form['nausea'], 
         form['dor_costas'], 
-        form['astralgia'], 
+        form['artralgia'], 
         form['dor_retro'],
         form['leucopenia'], 
         form['petequia_n']       
